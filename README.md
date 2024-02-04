@@ -1,5 +1,5 @@
-## Ripple-Carry-Carry-Lookahead
-# Ripple carry and carry lookahead are both architectures of the adder file
+# Ripple-Carry-Carry-Lookahead
+## Ripple carry and carry lookahead are both architectures of the adder file
 
 * includes a full adder(FA) for the ripple carry
 * includes cla2, cgen2 for the carry lookahead
