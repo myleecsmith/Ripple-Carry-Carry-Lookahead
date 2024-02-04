@@ -7,4 +7,4 @@
 
 The carry lookahead is created by two instantiations of cla2 which feed into cgen2 which produces the outputs. CLA only adds 4 bits but does include a carry_out.
 
-Ripple carry is created by linked together multiple instantiations of FA in a for generate loop. 
+Ripple carry is created by linked together multiple instantiations of FA in a for generate loop and adds up to 8 bits plus a carry_out.
